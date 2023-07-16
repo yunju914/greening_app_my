@@ -180,4 +180,3 @@ public class MyPageActivity extends AppCompatActivity implements View.OnClickLis
     }
 }
 
-

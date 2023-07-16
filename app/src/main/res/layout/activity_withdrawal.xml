@@ -141,5 +141,4 @@ tools:context=".WithdrawalActivity">
             </LinearLayout>
         </LinearLayout>
     </LinearLayout>
-
 </LinearLayout>
