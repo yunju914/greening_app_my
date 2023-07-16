@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "629678268133",
+    "firebase_url": "https://testsearch-ce909-default-rtdb.firebaseio.com",
+    "project_id": "testsearch-ce909",
+    "storage_bucket": "testsearch-ce909.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629678268133:android:e93232073c3e5031133e0c",
+        "android_client_info": {
+          "package_name": "com.example.testsearch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629678268133-m8ft5i7bh222qq3mf1eqg22sp7j3mh5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdfF-_ZR2zipbGhr0TvOt3e9LSksv5RkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629678268133-m8ft5i7bh222qq3mf1eqg22sp7j3mh5b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
